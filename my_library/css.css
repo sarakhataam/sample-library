@@ -1,0 +1,120 @@
+.nav a,
+.change {
+	color: white;
+	padding: 6px 20px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+a:hover {
+	color: black;
+	background-color: aliceblue;
+}
+
+body {
+	height: 100vh;
+	width: 100%;
+	background-image: url("image/R.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	padding-right: 8%;
+	padding-left: 8%;
+}
+
+.title {
+	padding-top: 4%;
+	color: white;
+}
+
+.nav {
+	text-align: center;
+	flex: 1;
+}
+
+.center {
+	text-align: center;
+	padding-top: 100px;
+}
+
+	.center h1 {
+		font-size: :100px;
+		color: white;
+		margin: 20px;
+	}
+
+.button {
+	width: 70px;
+	height: 50px;
+	color: white;
+	background-color: brown;
+	border-style: none;
+	margin: 20px;
+
+}
+
+	.button:hover {
+		color: black;
+		background-color: rgb(48,41,0);
+	}
+
+.text {
+	height: 50px;
+	width: 500px
+}
+
+.p_log {
+	text-align: center;
+	padding-top: 20px;
+}
+
+	.p_log h1 {
+		font-size: 50px;
+		color: white;
+	}
+	.h{
+		font-size: 50px;
+		color: white;
+	}
+
+#email,
+#password {
+	font-size: 20px;
+}
+
+.e {
+	font-size: 30px;
+	color: white;
+}
+.error{
+	color:white;
+	font-size: 25px;
+
+
+}
+.home{
+	
+	text-align: right;
+
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid rgb(152 81 81);
+  color: white;
+  background-color: #696969; 
+  margin-left: 50%
+
+  margin-right: auto;  
+}
+.grid-item{
+	text-align: center;
+	margin-left: 350px;
+}
+.books{
+	margin-left: 150px;
+}
