@@ -13,6 +13,6 @@ submission date).
 - ### the video descripes the project
 ### https://drive.google.com/file/d/1PaMlmDPKJKBtfYjr414-ICs4hMlvHQUG/view?fbclid=IwAR0dwiSOsoXgr7T2TVJzAZCMVtTdR-AYaB_IVIRDe9XRYcZK7ZQLskh1JLM
 ### video of code
-- https://drive.google.com/drive/u/0/folders/1JypUxdL6z0ArPg9J9xAupKS3muHl7oLl
+- https://drive.google.com/file/d/1Tj0NjcRyXBRneQwMhTRaESSsRndK6fSC/view?usp=sharing
 
 
